@@ -5,5 +5,5 @@ WpfWindow("HP MyFlight Sample Application").WpfEdit("password").SetSecure "56129
 WpfWindow("HP MyFlight Sample Application").WpfButton("OK").Click @@ hightlight id_;_1899873984_;_script infofile_;_ZIP::ssf22.xml_;_
 Window("Window").Click 233,22 @@ hightlight id_;_65664_;_script infofile_;_ZIP::ssf23.xml_;_
 
-
+   ''''
 'blabla
