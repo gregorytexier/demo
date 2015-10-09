@@ -1,1 +1,3 @@
-﻿
+﻿' init script
+' calc.exe
+
