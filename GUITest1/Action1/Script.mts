@@ -1,9 +1,10 @@
-﻿
-SystemUtil.Run "C:\Program Files\HP\Unified Functional Testing\samples\Flights Application\FlightsGUI.exe","","C:\Program Files\HP\Unified Functional Testing\samples\Flights Application\",""
-WpfWindow("HP MyFlight Sample Application").WpfEdit("agentName").Set DataTable("Username", dtGlobalSheet) @@ hightlight id_;_1901237168_;_script infofile_;_ZIP::ssf20.xml_;_
-WpfWindow("HP MyFlight Sample Application").WpfEdit("password").SetSecure "5612912474fa03db7731" @@ hightlight id_;_1899873744_;_script infofile_;_ZIP::ssf21.xml_;_
-WpfWindow("HP MyFlight Sample Application").WpfButton("OK").Click @@ hightlight id_;_1899873984_;_script infofile_;_ZIP::ssf22.xml_;_
+﻿ @@ hightlight id_;_1899873984_;_script infofile_;_ZIP::ssf22.xml_;_
  @@ hightlight id_;_65664_;_script infofile_;_ZIP::ssf23.xml_;_
+Window("Calculator").Activate @@ hightlight id_;_6292266_;_script infofile_;_ZIP::ssf40.xml_;_
+Window("Calculator").WinButton("Button_3").Click @@ hightlight id_;_328508_;_script infofile_;_ZIP::ssf41.xml_;_
+Window("Calculator").WinButton("Button_21").Click @@ hightlight id_;_131954_;_script infofile_;_ZIP::ssf42.xml_;_
+Window("Calculator").WinButton("Button_15").Click @@ hightlight id_;_131910_;_script infofile_;_ZIP::ssf43.xml_;_
+Window("Calculator").WinButton("Button_28").Click @@ hightlight id_;_131940_;_script infofile_;_ZIP::ssf44.xml_;_
 
    ''''zzz
 'blabla
