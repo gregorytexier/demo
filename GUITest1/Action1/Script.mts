@@ -7,4 +7,4 @@ Window("Calculator").WinButton("Button_15").Click @@ hightlight id_;_131910_;_sc
 Window("Calculator").WinButton("Button_28").Click @@ hightlight id_;_131940_;_script infofile_;_ZIP::ssf44.xml_;_
 
    ''''zzz
-'blabla
+'texier:change 09-11-2020
