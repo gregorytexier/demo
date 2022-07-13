@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "91d61f98-f08e-43cf-9c77-c31e15350bd5",
+		"name": "weather",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "current_weather",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-RapidAPI-Key",
+						"value": "905e1438d9mshed39fbb471d6694p15d666jsn96651977ca89",
+						"type": "default"
+					},
+					{
+						"key": "X-RapidAPI-Host",
+						"value": "community-open-weather-map.p.rapidapi.com",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "https://community-open-weather-map.p.rapidapi.com/weather?q=London,uk",
+					"protocol": "https",
+					"host": [
+						"community-open-weather-map",
+						"p",
+						"rapidapi",
+						"com"
+					],
+					"path": [
+						"weather"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "London,uk"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
