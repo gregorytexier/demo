@@ -31,21 +31,22 @@ Default Profile=default.usp
 Lang=none
 
 [TulipInfo]
-ProductName=HP Unified Functional Testing
-Version=12.50
+ProductName=Micro Focus UFT One
+Version=2021
 
 [TulipAddins]
+AI=
 Database=
 File Content=
 Insight=
 Windows Applications=
 TEA=
-WPF=
 XML=
 
 [ExtraFiles]
 Test.tsp=
 Default.xls=
+Default.xlsx=
 Parameters.mtr=
 Action0\Script.mts=
 Action0\Resource.mtr=

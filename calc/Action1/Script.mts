@@ -1,6 +1,6 @@
 ﻿' init script
 ' calc.exe
-
+SystemUtil.Run "c:\Windows\System32\calc.exe"
 
 
 Window("Calculator").WinButton("Button").Click @@ hightlight id_;_328502_;_script infofile_;_ZIP::ssf1.xml_;_
